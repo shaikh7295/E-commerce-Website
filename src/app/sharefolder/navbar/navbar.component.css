@@ -1,0 +1,13 @@
+.navbar-light,
+.navbar-nav,
+.navbar-link {
+    color: var(-secondary-color);
+}
+
+.navbar-light,
+.navbar-nav,
+.navbar-link.active-link {
+    color: #000;
+    /* text-decoration: underline; */
+    font-weight: bold;
+}
